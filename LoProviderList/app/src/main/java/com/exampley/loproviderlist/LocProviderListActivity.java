@@ -27,6 +27,7 @@ public class LocProviderListActivity extends AppCompatActivity {
 
         locProviders = locMgr.getAllProviders();
         button.setOnClickListener(new View.OnClickListener() {
+
             @Override
             public void onClick(View view) {
                 String s = "";

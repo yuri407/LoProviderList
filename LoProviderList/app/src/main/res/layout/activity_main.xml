@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="141dp"
         android:layout_marginEnd="120dp"
-        android:text="list loc. providers"
+        android:text="list loc.providers"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
